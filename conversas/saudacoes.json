@@ -1,0 +1,24 @@
+{
+    "conversas": [
+        {
+            "mensagens": [ "oi", "olá", "ola" ],
+            "resposta": "Olá, sou o robô tira-dúvidas da COVID-19. Qual sua dúvida?"
+        },
+        {
+            "mensagens": [ "como vai?", "como está?", "tudo bem?" ],
+            "resposta": "Tudo bem! Espero que esteja bem e tomando os cuidados para se proteger da COVID-19. Quer tirar uma dúvida?"
+        },
+        {
+            "mensagens": ["bom dia", "Bom dia", "Bom dia!", "bom dia!"],
+            "resposta": "bom dia, sou o robô tira-dúvidas da COVID-19. Qual sua dúvida?"
+        },
+        {
+            "mensagens": ["boa tarde", "Boa tarde", "Boa tarde!", "boa tarde!"],
+            "resposta": "boa tarde, sou o robô tira-dúvidas da COVID-19. Qual sua dúvida?"
+        },
+        {
+            "mensagens": ["boa noite", "Boa noite", "Boa noite!", "boa noite!"],
+            "resposta": "boa noite, sou o robô tira-dúvidas da COVID-19. Qual sua dúvida?"
+        }
+    ]
+}

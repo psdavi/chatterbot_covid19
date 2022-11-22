@@ -1,0 +1,4 @@
+chatterbot
+flask
+chatterbot_corpus
+pytz
